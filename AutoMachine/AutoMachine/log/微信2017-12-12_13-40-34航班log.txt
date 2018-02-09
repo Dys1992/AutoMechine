@@ -1,0 +1,4 @@
+********老微信查询接口测试**********
+
+微信:http://cnzhxsrvweixin4.t.17u.cn/FlightWeiXinQueryInfo.ashx?Departure=SZX&Arrival=SHA&DepartureDate=2017-12-12&userIp=1234567&flat=174&ProductType=1&gettype=0&Force=2链接无法访问
+
